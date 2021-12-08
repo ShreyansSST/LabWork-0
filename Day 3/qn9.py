@@ -5,7 +5,7 @@ for i in range(3):
     username = input("Enter Your Username: ")
     password = int(input("Enter Your Password: "))
     
-    if (password == 123) and (username == "swopnil"):
+    if (password == 1436) and (username == "shreyans"):
         print("Logged in Successful")
         break
     else:
